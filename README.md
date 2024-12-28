@@ -1,4 +1,4 @@
-# Solvency II Project - Insurance and Econometrics
+# Solvency II Project - Insurance
 
 This repository contains the implementation and analysis for the Solvency II project conducted as part of the course on **Insurance and Econometrics** at Politecnico di Milano. The project evaluates the solvency of a simplified insurance company under different stress scenarios using both deterministic and stochastic approaches.
 
