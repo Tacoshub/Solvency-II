@@ -2,13 +2,9 @@
 
 This repository contains the implementation and analysis for the Solvency II project conducted as part of the course on **Insurance and Econometrics** at Politecnico di Milano. The project evaluates the solvency of a simplified insurance company under different stress scenarios using both deterministic and stochastic approaches.
 
----
-
 ## Project Overview
 
 The project aims to model and analyze the assets and liabilities of an insurance company under the Solvency II framework. It includes calculations for the Basic Solvency Capital Requirement (BSCR), best estimate liabilities (BEL), and key profitability metrics such as the Present Value of Future Profits (PVFP).
-
----
 
 ## Repository Contents
 
@@ -19,8 +15,6 @@ The project aims to model and analyze the assets and liabilities of an insurance
 ### Documentation
 - **Project Report**: A detailed explanation of the methodology, assumptions, and results.
 - **Summary Table**: Key results for all tested scenarios.
-
----
 
 ## Features
 
@@ -44,8 +38,6 @@ The project aims to model and analyze the assets and liabilities of an insurance
 
 5. **Comparison of Approaches**:
    - Stochastic simulations vs deterministic calculations.
-
----
 
 ## Authors
 - **Luca Amadori**
