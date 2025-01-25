@@ -43,5 +43,3 @@ The project aims to model and analyze the assets and liabilities of an insurance
 - **Luca Amadori**
 - **Lorenzo Bracci**
 - **Ludovico Costa**
-
----
